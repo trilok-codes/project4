@@ -1,0 +1,235 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    
+}
+.logo{
+    }
+    .navlink{
+        display: flex;
+        padding: 30px 60px;
+        list-style: none;
+        column-gap: 40px;
+        
+    }
+    .navlink a{
+        text-decoration: none;
+    }
+    .text{
+        display:flex;
+        align-items:center;
+        flex-direction: column;
+        
+width: 900px;
+padding-bottom: 20px;
+row-gap: 40px;
+
+
+gap: 0px;
+        
+    }
+    .mid-section{
+        background-image: url(img/background.jpg.png);
+        padding-left: 170px;
+        padding-bottom: 60px;
+    }
+    .text p:nth-of-type(2){
+        color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 58px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 137.931% */
+letter-spacing: 0.2px;
+    }
+    .text p:nth-of-type(1){
+        color: #F6F6F6;
+text-align: center;
+
+/* H3 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+
+letter-spacing: 0.1px;
+margin-top: 60px;
+    }
+    .text p:nth-of-type(3){
+        color: #F6F6F6;
+text-align: center;
+
+/* H4 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px; /* 158.333% */
+letter-spacing: 0.2px;
+    }
+    .text div button{
+        border-radius: 15px;
+background: #FA4A0C;
+box-shadow: 0px 10px 30px 0px rgba(183, 50, 39, 0.20);
+font-size: 15px;
+box-sizing: content-box;
+padding: 9px;
+gap:20px;
+font-weight: 100px;
+color: #FFF;
+
+
+    }
+    .text div button:nth-of-type(2){
+        background-color: transparent;
+    }
+    .text div{
+        display:flex;
+        justify-content:space-between;
+        column-gap: 20px;
+        row-gap: 20px;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .mobile{
+        display: flex;
+       justify-content: center;
+       position: relative;
+       
+        width: 548px;
+height: 640px;
+
+top:-200px;
+left:250px;
+
+
+    }
+    .work{
+        display:flex;
+        justify-content: center;
+        font-size:50px;
+       
+        
+    }
+    .box{
+        width: 1350px;
+height: 806.99px;
+top: 1546px;
+gap: 10px;
+margin-right: 70px;
+    }
+    .box1{
+        width: 1400px;
+        height: 806.99px;
+        top: 1546px;
+        gap: 10px;
+        margin-right: 70px;
+    }
+    hr{
+        width: 50%;
+        margin-left: 290px;
+        margin-bottom: 40px;
+    }
+    .box2{
+        width: 1400px;
+        height: 806.99px;
+        top: 1546px;
+        gap: 10px;
+        margin-right: 70px;
+    }
+    .mid-section2{
+        background-image: url(img/background1.jpg.png);
+        padding-left: 170px;
+        padding-bottom: 60px;
+    }
+
+
+
+
+
+
+
+
+
+    .text2{
+        display:flex;
+        align-items:center;
+        flex-direction: column;
+        
+width: 900px;
+padding-bottom: 20px;
+row-gap: 40px;
+
+
+gap: 0px;
+        
+    }
+    
+    .text2 p:nth-of-type(2){
+        color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 58px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 137.931% */
+letter-spacing: 0.2px;
+    }
+    .text2 p:nth-of-type(1){
+        color: #F6F6F6;
+text-align: center;
+
+/* H3 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+
+letter-spacing: 0.1px;
+margin-top: 60px;
+    }
+    .text2 p:nth-of-type(3){
+        color: #F6F6F6;
+text-align: center;
+
+/* H4 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px; /* 158.333% */
+letter-spacing: 0.2px;
+    }
+    .text2 div button{
+        border-radius: 15px;
+background: #FA4A0C;
+box-shadow: 0px 10px 30px 0px rgba(183, 50, 39, 0.20);
+font-size: 15px;
+box-sizing: content-box;
+padding: 9px;
+gap:20px;
+font-weight: 100px;
+color: #FFF;
+
+
+    }
+    .text2 div button:nth-of-type(2){
+        background-color: transparent;
+    }
+    .text2 div{
+        display:flex;
+        justify-content:space-between;
+        column-gap: 20px;
+        row-gap: 20px;
+    }
+    .footer{
+        width: 1210px;
+height: 133px;
+top: 4236.9px;
+left: 115px;
+gap: 324px;
+
+    }
